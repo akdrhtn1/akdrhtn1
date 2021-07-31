@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdrhtn1&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdrhtn1&show_icons=true&theme=highcontrast)
 
 <!--
 **akdrhtn1/akdrhtn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
