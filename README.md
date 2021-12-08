@@ -22,7 +22,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdrhtn1&show_icons=true&layout=compact&theme=dracula)
 </div>
 <!--
-**akdrhtn1/akdrhtn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**박상민/akdrhtn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
