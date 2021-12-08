@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdrhtn1&show_icons=true&theme=cobalt)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akdrhtn1&layout=compact&theme=dracula)
 </div>
 <!--
 **akdrhtn1/akdrhtn1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
