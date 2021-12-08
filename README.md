@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## SPRING & SPRING BOOT  👋
+  ## SPRING & SPRING BOOT
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
