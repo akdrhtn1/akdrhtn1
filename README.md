@@ -10,7 +10,7 @@
 [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/akdrhtn1/2nd-project/tree/main/2ndNotice/build/classes/css)&nbsp;
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)](https://github.com/akdrhtn1/bitcamp-training/tree/main/jsp/01_Servlet/01_Servlet/src/com/mystudy/servlet)&nbsp;
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)](https://github.com/akdrhtn1/final-project/tree/main/MeRoom/src/main/webapp)&nbsp;
-[![Java](https://github.com/akdrhtn1/final-project/tree/main/MeRoom/src/main/java/com/spring/mr)](https://github.com/Joowon0220/weather)&nbsp;
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)](https://github.com/akdrhtn1/final-project/tree/main/MeRoom/src/main/java/com/spring/mr)&nbsp;
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)](https://github.com/Joowon0220/Spring_Weather)&nbsp;
 [![Oracle DB](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)](https://github.com/Joowon0220/SpringMVC)&nbsp; <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>   
 
