@@ -1,6 +1,6 @@
 <div align="center">
 
-  ### Hi there 👋
+  ## SPRING & SPRING BOOT를 공부중 👋
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
