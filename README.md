@@ -16,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdrhtn1&show_icons=true&theme=cobalt)
 
-<imt src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula
+<imt src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&layout=compact&theme=dracula">
 
 </div>
 <!--
